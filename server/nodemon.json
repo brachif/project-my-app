@@ -1,0 +1,7 @@
+{
+    "env":{
+        "MONGO_USERNAME": "brachi",
+        "MONGO_PASSWORD": "YOmkYOgXDmAxB2YS",
+        "JWT_KEY": "json web token user"
+    }
+}
